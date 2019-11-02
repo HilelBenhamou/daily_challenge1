@@ -2,4 +2,4 @@
 
 click to see
 
-https://hilelbenhamou.github.io/dailychallenge1/
+https://hilelbenhamou.github.io/daily_challenge1/
